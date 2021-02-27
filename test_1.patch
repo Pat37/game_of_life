@@ -1,0 +1,15 @@
+Index: src/main/java/Main.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Main.java b/src/main/java/Main.java
+--- a/src/main/java/Main.java	(revision 0cfe3ea63859af1d54fcc371ca48b9e208ae8d63)
++++ b/src/main/java/Main.java	(revision 5156538a34fc91c1c7fe6dd58b49cb9a3c8a3132)
+@@ -1,5 +1,5 @@
+ public class Main {
+-
++    //hallo
+ 
+     //Hallo Lars
+ }
