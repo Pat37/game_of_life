@@ -1,5 +1,8 @@
 public class Main {
-    //hallo
 
-    //Hallo Lars
+
+    public static void main(String[] args){
+
+        System.out.println("Fotze");
+    }
 }
